@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Saameh.
-- 👀 I’m interested in neuroscience and many other STEM subjects.
-- 🌱 I’m currently learning Python, Data science, and Machine learning.
-<!--- 💞️ I’m looking to collaborate on anything neuroscience and neuroinformatics! :)
-- 📫 How to reach me: https://www.linkedin.com/in/saameh-sanaaee
---->
+- 👀 I’m interested in most STEM subjects and hope to contribute a little.
+- 🌱 I’m currently learning Python, R, Data science, and Machine learning.
