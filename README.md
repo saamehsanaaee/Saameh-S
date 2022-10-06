@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Saameh.
-- 👀 I’m interested in most STEM subjects and hope to contribute a little.
-- 🌱 I’m currently learning Python, R, Data science, and Machine learning.
+- That's it for now. :)
