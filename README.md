@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Saameh.
+- Hi, I’m Saameh.
 - That's it for now. :)
