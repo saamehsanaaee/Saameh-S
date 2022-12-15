@@ -1,2 +1,4 @@
-- Hi, I’m Saameh.
-- That's it for now. :)
+- Hi, I’m Saameh Sanaaee.
+- A student of Cell and Molecular Biology.
+- Interested in data science and a lot more.
+- That's it for now ... I'll try to be more interesting. :)
