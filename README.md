@@ -1,4 +1,4 @@
 - Hi, I’m Saameh Sanaaee.
 - A student of Cell and Molecular Biology,
-- Curious about data science and other related fields.
+- Curious about data science and neuroscience.
 - That's all for now ... I'll try to be more interesting.
