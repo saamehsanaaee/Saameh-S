@@ -1,4 +1,3 @@
-- Hi, I’m Saameh Sanaaee.
-- A student of Cell and Molecular Biology,
-- Curious about data science and neuroscience.
-- That's all for now ... I'll try to be more interesting.
+- Hi, I’m Saameh!
+- A cell and molecular biologist interested in human genetics.
+- Also curious about computational biology, bioinformatics, and systems biology.
